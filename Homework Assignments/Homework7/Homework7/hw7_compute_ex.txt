@@ -1,0 +1,2 @@
+Trump tweet ratio: 0.4090909090909091
+Biden tweet ratio: 0.2532467532467532
